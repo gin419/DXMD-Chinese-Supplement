@@ -1,0 +1,18 @@
+# Local game data and downloaded archives
+game-copy/
+backups/
+.github-cli/
+downloads/
+work/
+archive-index.json
+resource-samples.json
+*.rar
+*.zip
+*.7z
+
+# Generated/runtime files
+build/
+dist/
+logs/
+DXMD_Mod.log
+

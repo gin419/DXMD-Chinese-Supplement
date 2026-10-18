@@ -1,0 +1,6 @@
+{
+  "status": "not-computed",
+  "reason": "The imported Chinese package contains its own textlist dataset, but the original v4.5 baseline was not provided for a reliable delta comparison.",
+  "package": "DXMD_full_chinese_text.zip",
+  "target_game": "Steam DXMD v1.19"
+}
